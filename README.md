@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **SportyMine**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **SpringBoot**
 
-- 💬 Ask me about **Mern Stack**
+- 💬 Ask me about **Software Developmenr and Quality Assurance**
 
 - 📫 How to reach me **chiragrana034@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/chira/OneDrive/Desktop/Final%20resume.pdf](file:///C:/Users/chira/OneDrive/Desktop/Final%20resume.pdf)
+- 📄 Know about my experiences [file:///C:/Users/chira/OneDrive/Desktop/Final%20resume.pdf](file:///C:/Users/chira/OneDrive/Desktop/ChiragRanaCV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
